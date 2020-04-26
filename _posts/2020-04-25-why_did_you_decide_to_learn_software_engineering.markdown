@@ -1,15 +1,15 @@
 ---
 layout: post
-title:      "Why did you decide to learn software Engineering?"
-date:       2020-04-26 01:40:57 +0000
+title:      "Why I decide to learn software Engineering?"
+date:       2020-04-25 21:40:58 -0400
 permalink:  why_did_you_decide_to_learn_software_engineering
 ---
 
 
-![](https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game)#/media/File:Prince_of_Persia_1_-_MS-DOS_-_Gameplay.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/4/4d/Prince_of_Persia_1_-_MS-DOS_-_Gameplay.gif)
 
 
-At 10 years old I sited down in front of an IBM computer for the first time just playing with MS-DOS, creating directories, copy and delete files, fun stuff… a few years later my father got another computer with Windows NT. I got amaze with the display of the windows and the color of the executable’s files (paintbrush, sound recorder, solitary, mines, word, excel, etc.).  
+Hi, Im Pedro, me at 10 years old living in Venezuela sitting down in front of an IBM computer for the very first time started  "playing" with MS-DOS, creating directories, copy and delete files, fun stuff… a few years later my father got another computer with Windows NT. I got amaze with the display of the windows and the color of the executable’s files (paintbrush, sound recorder, solitary, mines, word, excel, etc.).  
 
 Also of course I started playing video games that came in 5.25” floppy disk at first and them 3.5” floppy disk, I enjoyed the installation process and I was very curious of how the programs were build and how was the communication between hardware and software (programing)… My first favorites video games were Prince of Persia, Maniac Mansion, Leisure Suit Larry, Digger, Sim city, Test Drive, the secret of Monkey Island and the list can go until todays date GTAV… 
 I always liked to open and took apart the computers and reassembled again. 
