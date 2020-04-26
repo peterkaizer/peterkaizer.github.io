@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Why I decide to learn software Engineering?"
+title:      "Why Software Engineering?... "
 date:       2020-04-25 21:40:58 -0400
 permalink:  why_did_you_decide_to_learn_software_engineering
 ---
